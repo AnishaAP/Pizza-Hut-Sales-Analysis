@@ -1,3 +1,5 @@
+https://public.tableau.com/views/Tableaudashboard_Pizza-hutanalysis/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
+
 Sales analysis for pizza hut india in the year 2015. The dataset was for 48620 orders and deliveries made over a year.
 Successful analysis was done using MYSQL to get insights about the following :
 1. total number of orders placed.
